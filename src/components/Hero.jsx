@@ -37,7 +37,7 @@ const Hero = () => {
                         </div>
 
                         <div className={style.title}>
-                            Stream & Organize Games on Blockchain
+                            Stream & Organize Games on Manta Blockchain
                         </div>
 
                         <div className={style.ctaContainer}>

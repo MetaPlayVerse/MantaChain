@@ -35,7 +35,7 @@ const explore = () => {
                             <figure>
                                 <Image
                                     src="/images/sui.png"
-                                    alt="Gaming Trends on Scroll"
+                                    alt="Gaming Trends on Manta"
                                     width={500} height={200}
                                 />
                             </figure>
@@ -47,7 +47,7 @@ const explore = () => {
                                         <BiHeart />
                                     </div>
                                 </div>
-                                <h2 className="card-title font-Montserrat text-[24px] pb-4">Gaming Trends on Scroll</h2>
+                                <h2 className="card-title font-Montserrat text-[24px] pb-4">Gaming Trends on Manta</h2>
                                 <div className="flex ">
                                     <button
                                         className="flex justify-start relative text-lg px-8 py-3 bg-[#98ee2c]  mr-5 uppercase font-Agda font-bold text-black hover:bg-[#f0f0f0] cursor-pointer" >
